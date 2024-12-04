@@ -1,16 +1,13 @@
-## Hi there 👋
+## 🧑🏻‍💻 My Skills
 
-<!--
-**gamuprog/gamuprog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Languages
+<img src="https://skillicons.dev/icons?i=bash,html,css,js,typescript,go,c,cpp,py"/>
 
-Here are some ideas to get you started:
+### Frameworks and Library
+<img src="https://skillicons.dev/icons?i=react,next,tailwind,emotion,vite,jest"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### DB and Dev Tools
+<img src="https://skillicons.dev/icons?i=mysql,git,gitlab,github,githubactions,aws,docker"/>
+
+### Others
+<img src="https://skillicons.dev/icons?i=figma,ai,ps,pr,nodejs,linux,matlab,npm,notion,postman,powershell,r,stackoverflow,scala,unity,unreal,vim"/>
