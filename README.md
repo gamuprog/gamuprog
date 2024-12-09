@@ -1,8 +1,14 @@
-## Percentage of languages used
+## Hi There 👋🏻
+
+- I'm a software engineer developing front-end and back-end areas 🧑🏻‍💻
+- I run a technical and hobby blog site named [gAmuLog](https://www.gamulog.com/), check it out 👀
+- I got AWS Solutions Architect Associate (SAA-C03) certified, and passed Fundamental Information Technology Engineer Examination(FE) 📝
+
+## Percentage of languages used 📊
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gamuprog&layout=compact&theme=dracula)
 
-## 🧑🏻‍💻 My Skills
+## My Skills 🧑🏻‍💻
 
 ### Languages
 <img src="https://skillicons.dev/icons?i=bash,html,css,js,typescript,go,c,cpp,py"/>
