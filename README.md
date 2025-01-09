@@ -24,7 +24,7 @@
 <img src="https://skillicons.dev/icons?i=figma,ai,ps,pr,nodejs,linux,matlab,npm,notion,postman,powershell,r,stackoverflow,scala,unity,unreal,vim"/>
 
 ## Contact ✉️
-If you need, please contact me at the following email address or x account 🙌
+If you need, please contact me at the following email address or X account 🙌
 
 Email: gamuprog@gmail.com
 
