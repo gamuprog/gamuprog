@@ -18,7 +18,7 @@
 <img src="https://skillicons.dev/icons?i=react,next,tailwind,emotion,vite,jest"/>
 
 ### DB and Dev Tools
-<img src="https://skillicons.dev/icons?i=mysql,git,gitlab,github,githubactions,aws,docker"/>
+<img src="https://skillicons.dev/icons?i=mysql,supabase,git,gitlab,github,githubactions,aws,docker"/>
 
 ### Others
 <img src="https://skillicons.dev/icons?i=figma,ai,ps,pr,nodejs,linux,matlab,npm,notion,postman,powershell,r,stackoverflow,scala,unity,unreal,vim"/>
