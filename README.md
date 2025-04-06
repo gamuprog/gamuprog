@@ -7,7 +7,7 @@
 
 ## Percentage of languages used 📊
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=gamuprog&layout=compact&theme=dracula)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=gamuprog&layout=compact&theme=dracula&cache_seconds=1)
 
 ## My Skills 🧑🏻‍💻
 
